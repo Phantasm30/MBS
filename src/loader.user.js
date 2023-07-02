@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         MBS - Maid's Bondage Scripts
+// @name         MBS - Maid's Bondage Scripts edited by Nabi
 // @namespace    MBS
 // @version      0.6.7
 // @description  Loader of Bananarama92's "Maid's Bondage Scripts" mod
