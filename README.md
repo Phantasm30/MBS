@@ -1,6 +1,6 @@
-# Maid's Bondage Scripts
+# Maid's Bondage Scripts Crafting Slots Extended Version
 A repo with a number of Bondage Club-related additions, including:
-* More crafting slots
+* More crafting slots (100 > 300)
 * Additional bondage-heavy outfits for the wheel of fortune, including the likes of:
   * PSO (Permanently Sealed Object) uniforms
   * Bondage maids
