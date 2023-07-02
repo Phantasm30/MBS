@@ -39,7 +39,7 @@ function craftingSerialize(items: null | readonly (null | CraftingItem)[]): stri
 }
 
 waitFor(() => typeof CraftingSlotMax !== "undefined").then(() => {
-    CraftingSlotMax = 100;
+    CraftingSlotMax = 300;
     console.log("MBS: Initializing crafting module");
 });
 
