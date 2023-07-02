@@ -19,7 +19,7 @@ setTimeout(
         const n = document.createElement("script");
         n.language = "JavaScript";
         n.crossorigin = "anonymous";
-        n.src = "https://Phantasm30.github.io/MBS/main/mbs.js";
+        n.src = "https://Phantasm30.github.io/MBS/mbs.js";
         document.head.appendChild(n);
     },
     2000,
